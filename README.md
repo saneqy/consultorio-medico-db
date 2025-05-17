@@ -131,4 +131,4 @@ JOIN Tb_Medico as m
 ON c.Id_Consulta = m.Id_Medico;
 ```
 
-Feito com 💙 por [Asteri](https://github.com/Asterium1)
+Feito com 💙 por [Saneqy](https://github.com/saneqy)
